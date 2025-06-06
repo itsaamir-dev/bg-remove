@@ -2,9 +2,9 @@
 
 ### What we want to achieve
 Enable administrators to:
-- View a list of configured SSO connections.
-- Create and update SAML SSO connections.
-- Create and update OIDC SSO connections.
+- View SSO list.
+- Create and update SAML SSO.
+- Create and update OIDC SSO.
 
 ---
 
